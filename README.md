@@ -1,7 +1,7 @@
 # Belajar-SQL
 Supporting Content untuk tutorial [Belajar SQL](http://pojokprogrammer.net/tags/belajar-sql) di [Pojok Programmer](http://pojokprogrammer.net/content/konsep-database-relasional-dan-bahasa-sql)
 
-Rangkaian artikel tersebut ditujukan untuk teman-teman yang ingin mempelajari SQL namun masih baru atau belum memahami sepenuhnya tentang konsep database relasional dan cara memanfaatkan dan membuat perintah SQL dengan baik.
+Rangkaian artikel berikut ini ditujukan untuk teman-teman yang ingin mempelajari SQL namun masih baru atau belum memahami sepenuhnya tentang konsep database relasional dan cara memanfaatkan dan membuat perintah SQL dengan baik.
 
 - [Atur Data Anda](http://pojokprogrammer.net/content/atur-data-anda), artikel ini membahas bagaimana sebenarnya data tersimpan dan saling berelasi dalam database relasional, serta sedikit membahas normalisasi data.
 - **Membuat Model dan Mengakses Data Anda** (***TBD***), artikel ini membahas bentuk-bentuk relasi secara lebih mendalam, proses analisa dan desain database yang ingin kita bangun.
