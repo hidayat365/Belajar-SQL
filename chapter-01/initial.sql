@@ -3,7 +3,7 @@
 -- before normalization
 --
 CREATE TABLE employee (
-  employee_id    INTEGER,
+  employee_id    SERIAL,
   first_name     VARCHAR(50),
   last_name      VARCHAR(50),
   hire_date      DATE,
@@ -11,10 +11,11 @@ CREATE TABLE employee (
   manager        INTEGER,
   dept_id        INTEGER,
   dept_name      VARCHAR(50),
-  ofice_1        VARCHAR(50),
+  office_1       VARCHAR(50),
   phone_number_1 VARCHAR(50),
-  ofice_2        VARCHAR(50),
+  office_2       VARCHAR(50),
   phone_number_2 VARCHAR(50),
-  ofice_3        VARCHAR(50),
-  phone_number_3 VARCHAR(50)
+  office_3       VARCHAR(50),
+  phone_number_3 VARCHAR(50),
+  PRIMARY KEY (employee_id)
 );

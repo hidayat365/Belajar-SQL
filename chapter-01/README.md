@@ -15,7 +15,7 @@ Dengan **perintah SQL** kita bisa mendefinisikan tabel yang akan kita gunakan un
 
 Sebagai contoh, perintah SQL DDL berikut ini digunakan untuk membuat tabel *EMPLOYEE*, sekaligus dengan kolom-kolom (atribut) dan tipe datanya:
 
-<pre>CREATE TABLE employee(
+<pre>CREATE TABLE employee (
   employee_id    INTEGER,
   first_name     VARCHAR(50),
   last_name      VARCHAR(50),
