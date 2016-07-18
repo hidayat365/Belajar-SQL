@@ -15,18 +15,18 @@ Dengan **perintah SQL** kita bisa mendefinisikan tabel yang akan kita gunakan un
 
 Sebagai contoh, perintah SQL DDL berikut ini digunakan untuk membuat tabel *EMPLOYEE*, sekaligus dengan kolom-kolom (atribut) dan tipe datanya:
 
-<pre>CREATE TABLE employee
-   (employee_id    INTEGER,
-    first_name     VARCHAR(50),
-    last_name      VARCHAR(50),
-    hire_date      DATE,
-    salary         NUMERIC(9,2),
-    manager        INTEGER,
-    dept_id        INTEGER,
-    dept_name      VARCHAR(50),
-    ofice_1        VARCHAR(50),
-    ofice_2        VARCHAR(50),
-    ofice_3        VARCHAR(50)
+<pre>CREATE TABLE employee(
+  employee_id    INTEGER,
+  first_name     VARCHAR(50),
+  last_name      VARCHAR(50),
+  hire_date      DATE,
+  salary         NUMERIC(9,2),
+  manager        INTEGER,
+  dept_id        INTEGER,
+  dept_name      VARCHAR(50),
+  ofice_1        VARCHAR(50),
+  ofice_2        VARCHAR(50),
+  ofice_3        VARCHAR(50)
 );</pre>
 
 Untuk membaca data yang tersimpan di dalam tabel *EMPLOYEE* maka kita menggunakan perintah *SELECT*. Sebagai contoh jika kita ingin mengambil data nama karyawan dan tanggal mulai bekerjanya, maka kita gunakan perintah SQL DML seperti ini:
