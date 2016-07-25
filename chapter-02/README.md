@@ -1,6 +1,6 @@
-# Atur Data Anda
+# Membuat Model Basis Data
 
-Supporting Content untuk tutorial [Belajar SQL](http://pojokprogrammer.net/tags/belajar-sql) di [Pojok Programmer](http://pojokprogrammer.net/content/membuat-model-data)
+Supporting Content untuk tutorial [Belajar SQL](http://pojokprogrammer.net/tags/belajar-sql) di [Pojok Programmer](http://pojokprogrammer.net/content/membuat-model-basis-data)
 
 **Bagian kedua dari rangkaian artikel tentang konsep database relational dan  dasar-dasar SQL**
 
